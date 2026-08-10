@@ -10,12 +10,12 @@ Residential households and community managers seeking real-time environmental mo
 
   ## Team Members & Assigned Roles
 
-    Product Owner: [Name]
-    Scrum Master: [Name]
-    Developer(s): [Fajardo Eduardo Jr C, || (s)]
-    QA/Reviewer: [Name]
+    Product Owner: Fajardo Eduardo Jr C 
+    Scrum Master: Fajardo Eduardo Jr C
+    Developer(s): Fajardo Eduardo Jr C 
+    QA/Reviewer: Fajardo Eduardo Jr C 
     DevOps/Configuration Lead: Eduardo Fajardo
-    Documentation Lead: [Eduardo Fajardo]
+    Documentation Lead: Eduardo Fajardo
 
 
   ##  Planned Technology Stack
