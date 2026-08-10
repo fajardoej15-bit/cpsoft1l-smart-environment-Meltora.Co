@@ -15,7 +15,7 @@ Residential households and community managers seeking real-time environmental mo
     Developer(s): [Fajardo Eduardo Jr C, || (s)]
     QA/Reviewer: [Name]
     DevOps/Configuration Lead: Eduardo Fajardo
-    Documentation Lead: [Name]
+    Documentation Lead: [Eduardo Fajardo]
 
 
   ##  Planned Technology Stack
