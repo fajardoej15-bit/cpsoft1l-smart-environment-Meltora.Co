@@ -1,40 +1,31 @@
-# cpsoft1l-smart-environment-Meltora.CoCPSOFT1L Smart Environment - Team Meltora.co
+# Meltora.Co — Online Bakery Ordering & Management System
 
-   ## Project Title & Problem Statement
+## Project Title & Problem Statement
+*Meltora.Co Bakery E-Commerce & Order Management System*  
+A web-based ordering and real-time order tracking platform designed to streamline customer purchasing, payment processing, and kitchen order dispatch for Meltora.Co bakery operations.
 
-Smart Environment Monitoring & IoT System.
+## Target Users & Stakeholder Value
+* *Customers:* Browse fresh baked goods, customize orders, pay securely, and track baking/delivery status in real time.
+* *Kitchen & Store Staff:* Receive instant order notifications, manage order preparation queues, and update order statuses.
+* *Bakery Management:* Monitor daily sales, manage menu availability, and track fulfillment metrics.
 
-   ## Target Users & Stakeholder Value
+## Team Members & Assigned Roles
+* *Scrum Master / Design Facilitator:* Eduardo Fajardo Jr.
+* *Requirements & Traceability Lead:* Eduardo Fajardo Jr.
+* *Modeling Lead:* Eduardo Fajardo Jr.
+* *Design Quality & Pattern Lead:* Eduardo Fajardo Jr.
+* *Architecture & DevOps Lead:* Eduardo Fajardo
+* *Developer(s):* Eduardo Fajardo Jr C.
+* *QA / Code Reviewer:* Eduardo Fajardo
 
-Residential households and community managers seeking real-time environmental monitoring.
+## Planned Technology Stack
+* *Frontend:* HTML5, CSS3, JavaScript / React Dashboard
+* *Backend:* Node.js, Express.js
+* *Database:* MongoDB Atlas
+* *Real-time Engine:* Socket.io (WebSockets)
+* *Tooling:* VS Code, Git, GitHub, ClickUp
 
-  ## Team Members & Assigned Roles
-
-    Product Owner: Fajardo Eduardo Jr C 
-    Scrum Master: Fajardo Eduardo Jr C
-    Developer(s): Fajardo Eduardo Jr C 
-    QA/Reviewer: Fajardo Eduardo Jr C 
-    DevOps/Configuration Lead: Eduardo Fajardo
-    Documentation Lead: Eduardo Fajardo
-
-
-  ##  Planned Technology Stack
-
-    Frontend: HTML/CSS/JS
-    Backend: Node.js, Express, MongoDB Atlas
-    Embedded: Wokwi / Microcontroller
-    Tooling: VS Code, Git, GitHub, ClickUp
-
-
-  ##  Repository Structure & Branching Strategy
-
-    Main Branch: main
-    Development Branch: develop
-    Feature/Bugfix Branches: feature/<CLICKUP-key>-<description> or bugfix/<CLICKUP-key>-<description>
-    Commits: <CLICKUP-key> <imperative description>
-
-
-    Security Reminder & AI Disclosure
-
-    No credentials or real secrets committed.
-    Authorized AI tools used for guidance and troubleshooting.
+## Repository Structure & Branching Strategy
+* *Main Branch:* main
+* *Development Branch:* develop
+* *Feature Branches:* feature/<feature-name>
